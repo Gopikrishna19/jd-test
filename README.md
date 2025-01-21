@@ -14,5 +14,6 @@
    - Should link to the following routes:
      - `/`
      - `/specificity`
+     - `/typescript`
 4. Make `npm run verify` pass
 5. (Optional) Make `npm run test` pass
