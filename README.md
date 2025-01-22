@@ -5,9 +5,10 @@
 
 ## Validations
 
-1. Identify issues in the React Component using the following steps
-2. Make `npm run dev` pass
-   1. Make the `/specificity` page work correctly
+Identify issues in the React Component using the following steps
+
+1. Make `npm run dev` pass
+2. Make the `/specificity` page work correctly
 3. Make `npm run verify` pass
 4. Identify the accessibility problem in `/` page.
 
